@@ -54,22 +54,22 @@ global.doc5 = 'application/pdf'
 global.doc6 = 'application/vnd.android.package-archive'
 
 //owmner v card
-global.vcardowner = ['6287811503157'] //ur owner number
-global.ownername = "Nanz-MD" //ur owner name
+global.vcardowner = ['6287811503157','6289669274517'] //ur owner number
+global.ownername = "Nanz-MD","Danz-MD" //ur owner name
 global.ytname = "YT: INTERFULL17" //ur yt chanel name
 global.socialm = "GitHub: Private" //ur github or insta name
 global.location = "Indonesia" //ur location
 
 //bot bomdy 
-global.owner = ['6287811503157']
-global.ownertag = '6287811503157' //ur tag number
+global.owner = ['6287811503157','6289669274517']
+global.ownertag = '6287811503157','6289669274517' //ur tag number
 global.botname = 'Nanz-BOT' //ur bot name
 global.linkz = "https://youtu.be/" //your theme url which will be displayed on whatsapp
 global.websitex = "-" //ur website to be displayed
 global.botscript = 'Private' //script link
 global.reactmoji = "👍🏻" //ur menu react emoji
 global.themeemoji = "🦄" //ur theme emoji
-global.packname = "Nanz Bot Stickers\n\n\n\n\n\n\n\n\n\n\n🦄🦄🦄 " //ur sticker watermark packname
+global.packname = "Nanz Bot Stickers " //ur sticker watermark packname
 global.author = "Nanz-MD" //ur sticker watermark author
 
 //Bot theme media
@@ -79,7 +79,7 @@ global.err4r = fs.readFileSync("./XeonMedia/theme/cheemspic.jpg") //ur error pic
 global.thumb = fs.readFileSync("./XeonMedia/theme/cheemspic.jpg") //ur thumb pic
 
 //damtabase
-global.premium = ['6287811503157'] //ur premium numbers
+global.premium = ['6287811503157','6289669274517'] //ur premium numbers
 global.ntilinkytvid = []
 global.ntilinkytch = []
 global.ntilinkig = []
