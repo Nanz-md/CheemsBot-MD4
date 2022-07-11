@@ -62,7 +62,8 @@ global.location = "Indonesia" //ur location
 
 //bot bomdy 
 global.owner = ['6287811503157','6289669274517']
-global.ownertag = '6287811503157','6289669274517' //ur tag number
+global.ownertag = '6287811503157' //ur tag number
+global.ownertag = '6289669274517' //ur tag number
 global.botname = 'Nanz-BOT' //ur bot name
 global.linkz = "https://youtu.be/" //your theme url which will be displayed on whatsapp
 global.websitex = "-" //ur website to be displayed
